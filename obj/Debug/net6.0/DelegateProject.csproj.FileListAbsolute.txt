@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\DelegateProject.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\DelegateProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\DelegateProject.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\DelegateProject.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\DelegateProject.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\bin\Debug\net6.0\DelegateProject.exe
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\bin\Debug\net6.0\DelegateProject.deps.json
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\bin\Debug\net6.0\DelegateProject.runtimeconfig.json
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\bin\Debug\net6.0\DelegateProject.dll
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\bin\Debug\net6.0\DelegateProject.pdb
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\DelegateProject.dll
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\refint\DelegateProject.dll
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\DelegateProject.pdb
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\DelegateProject.genruntimeconfig.cache
+C:\Users\Serhii\Desktop\bitroot\17\ConsoleApp1\obj\Debug\net6.0\ref\DelegateProject.dll
